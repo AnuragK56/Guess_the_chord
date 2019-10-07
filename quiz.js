@@ -3,31 +3,31 @@
     {
       question: "Guess the  which chord is playing",
       options: ["A minor ", "A major", "B major", "B minor"],
-      audio: "A_major_chord.mp3",
+      audio: "Audio/A_major_chord.mp3",
       answer: 2
     },
     {
       question: "Guess the  which chord is playing",
       options: ["D minor ", "D major", "G minor", "G major"],
-      audio: "G_major_chord.mp3",
+      audio: "Audio/G_major_chord.mp3",
       answer: 3
     },
     {
       question: "Guess the  which chord is playing",
       options: ["C major ", "G major", "A minor", "C minor"],
-      audio: "C_minor_chord.mp3",
+      audio: "Audio/C_minor_chord.mp3",
       answer: 3
     },
     {
       question: "Guess the  which chord is playing",
       options: ["D minor ", "D major", "G minor", "G major"],
-      audio: "D_major_chord.mp3",
+      audio: "Audio/D_major_chord.mp3",
       answer: 1
     },
     {
       question: "Guess the  which chord is playing",
       options: ["E minor ", "E major", "F minor", "F major"],
-      audio: "E_major_chord.mp3",
+      audio: "Audio/E_major_chord.mp3",
       answer: 1
     }
   ];
